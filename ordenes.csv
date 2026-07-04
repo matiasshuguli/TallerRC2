@@ -1,0 +1,4 @@
+codigo_orden,nombre_cliente,equipo,tipo_trabajo,costo_base,horas_trabajo
+OT001,Juan Perez,Laptop,Mantenimiento preventivo,25.00,2
+OT002,Ana Torres,PC,Instalacion de software,15.00,1
+OT003,Carlos Ruiz,Impresora,Mantenimiento correctivo,30.00,3
