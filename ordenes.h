@@ -7,6 +7,9 @@ typedef struct {
     int horas_trabajo;
 } Orden;
 
+void leerCadena(char cadena[], int tamano);
+float calcularCostoTotal(Orden orden);
+
 void registrarOrden(Orden ordenes[], int *cantidad);
 void listarOrdenes(Orden ordenes[], int cantidad);
 void buscarOrden(Orden ordenes[], int cantidad);
